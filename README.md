@@ -1,7 +1,7 @@
 # WELCOME,TEAM 007
 PPD BAU project--Group 007
 
-分析方向：\n
+分析方向：
 次月资产生成分析：
 机构投资偏好：
 机构路由排序：
